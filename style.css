@@ -1,0 +1,48 @@
+    p {
+      font-family: Arial;
+    }
+
+h1 {
+    color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.cards img {
+    width: 100px;
+    height: 150px;
+}
+
+header {
+    border: 1px solid powderblue;
+    font-family: cursive;
+    font-size: 30px;
+    text-align:center;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100px%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+table img {
+    width: 100px;
+    height: 150px;
+}
